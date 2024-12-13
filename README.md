@@ -2,7 +2,7 @@
 This is going to be a learning website where I try and implement new things, hopefully adding to my project Portfolio.
 
 ## To-Do List
-- [ ] Step one: Host an MkDocs website
+- [X] Step one: Host an MkDocs website
 - [ ] Step two: Add more content to the website
 - [ ] Step three: Share the website with others
 
