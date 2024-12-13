@@ -1,3 +1,14 @@
 # Learning
-This is going to be a learning website when I try and impliment new things hopefilly adding to my project porfoliio
-- [ ] Step one host a mkdocs website
+This is going to be a learning website where I try and implement new things, hopefully adding to my project Portfolio.
+
+## To-Do List
+- [ ] Step one: Host an MkDocs website
+- [ ] Step two: Add more content to the website
+- [ ] Step three: Share the website with others
+
+## Resources
+- [MkDocs Documentation](https://www.mkdocs.org/)
+- [Portfolio Project Repository](link-to-your-repository)
+
+## Contact
+For any questions or suggestions, feel free to reach out to me at [ottjeffery@gmail.com](mailto:your-email@example.com).
